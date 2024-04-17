@@ -1,4 +1,4 @@
-# Indonesian Folklore Project
+# Indonesian Folklore Portfolio Project
 
 This is a simple CRUD and Live Search project which shows data about Indonesian Folklore. User can see the data, insert new data, change the data that have been inserted before, and delete the data. Besides, user can search the data based on title, province, or type of story. 
 
